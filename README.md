@@ -5,6 +5,8 @@ Hi, I’m Abi
 💞️ I’m looking to collaborate on Civic Engagement Websites, Full-Stack Projects, and Data Analytics Projects
 ⚡ Fun fact: I once learned all React basics in just 1 hour to challenge myself — and nailed it!
 🍳 Love cooking, coding, or data? You’re officially my kind of people!
+📬Contact: santhiyaabi0@gmail.com
+
 
 🌐 Socials:
 LinkedIn | GitHub | Instagram | Linkedin | Facebook | Email
