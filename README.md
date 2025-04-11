@@ -1,9 +1,12 @@
-Here are some ideas to get you started:
-- ✨ I'm Abinaya 
-- 🔭 I’m currently working on web Development and datascience.
-- 👯 I’m looking to collaborate on open-source projects, web applications, and machine learning models.
-- 💬 Ask me about with my projects - homelyhub(hotel reservation booking website) , dashboard using Power BI
-- 📫 How to reach me: santhiyaabi0@gmail.com
-- 😄 Pronouns: she/her
+Hi, I’m Abi
+👀 I’m interested in Full-Stack Development, Data Analysis, and Web Development
+🌱 I’m currently learning React and building a Recipe Finder App called Cookistry
+📊 I’ve also explored Power BI and created an Amazon Prime Dashboard
+💞️ I’m looking to collaborate on Civic Engagement Websites, Full-Stack Projects, and Data Analytics Projects
+⚡ Fun fact: I once learned all React basics in just 1 hour to challenge myself — and nailed it!
+🍳 Love cooking, coding, or data? You’re officially my kind of people!
+
+🌐 Socials:
+LinkedIn | GitHub | Instagram | Linkedin | Facebook | Email
   
 
